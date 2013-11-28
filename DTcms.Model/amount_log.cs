@@ -22,7 +22,7 @@ namespace DTcms.Model
         private DateTime _add_time = DateTime.Now;
         private DateTime? _complete_time;
         /// <summary>
-        /// 自增ID
+        ///   自增ID2222
         /// </summary>
         public int id
         {
